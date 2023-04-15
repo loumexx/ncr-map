@@ -1,6 +1,6 @@
 # NCR Map App
 
-This project is a recreation of @denzdelvillar 's Philippine map, but in a smaller scale, only containing the 17 different cities in the National Captial Region of the Philippines.
+This project is a recreation of [@denzdelvillar](https://github.com/denzdelvillar)'s Philippine map, but in a smaller scale, only containing the 17 different cities in the National Captial Region of the Philippines.
 
 ## Technologies used:
 
